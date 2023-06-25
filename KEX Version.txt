@@ -1,0 +1,15 @@
+HIGHEST KEX: 9.00 (Semi Stable Webkit/Kernel) / 7.5X (Unstable Web/Semi Stable Kernel) / 7.02 (Unstable Webkit/Semi Stable Kernel) / 6.72 (Semi Stable Webkit/Kernel) / 5.05 (Stable Webkit/Kernel)​
+​
+HIGHEST PUBLIC WEBKIT: 9.00 (13/12/21) / 7.55 (15/12/20) / 8.52 (13/10/21) / 9.00 (27/10/21)​
+
+OR
+
+HIGHEST KEX: ​
+9.00 (Semi Stable Webkit/Kernel)​
+7.5X (Unstable Web/Semi Stable Kernel)​
+7.02 (Unstable Webkit/Semi Stable Kernel)​
+6.72 (Semi Stable Webkit/Kernel)​
+5.05 (Stable Webkit/Kernel​
+​
+HIGHEST PUBLIC WEBKIT:​
+9.00 (13/12/21)
